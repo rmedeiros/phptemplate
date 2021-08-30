@@ -7,7 +7,8 @@
 
 function sayHello($name) {
 	// testing
-	echo "Hello $name!";
+	echo "Kaixo $name!";
+	preg_match()
 
 }
 
