@@ -8,8 +8,6 @@
 function sayHello($name) {
 	// testing
 	echo "Kaixo $name!";
-	preg_match()
-
 }
 
 ?>
