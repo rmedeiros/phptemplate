@@ -6,7 +6,7 @@
  *---------------------------------------------------------------------------------------*/
 
 function sayHello($name) {
-	// testing
+	// testing again
 	echo "Kaixo $name!";
 }
 
