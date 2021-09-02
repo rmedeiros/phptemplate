@@ -19,7 +19,7 @@ function sayHello($name) {
 	<body>
 		<?php 
 		
-		sayHello('remote world');
+		sayHello('Raul');
 			
 		phpinfo(); 
 			
